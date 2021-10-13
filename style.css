@@ -1,0 +1,56 @@
+.header{
+    text-align: center;
+    font-size:30px;
+}
+
+.subheader{
+    text-align: center;
+    font-size:18px;
+    color: blueviolet;
+    margin-top: 0px;
+}
+
+
+body{background-color:rgb(255, 253, 129);
+
+}
+
+.inicio{
+    margin-right: 100px;
+}
+.adote{
+    margin-right: 100px;
+}
+.cadastro{
+    margin-right: 100px;
+}
+.doe{
+    margin-right: 100px;
+}
+.galeria{
+    margin-right: 100px;
+}
+
+.trabalho{
+    margin-right: 100px;
+}
+.sobre{
+    margin-left: 100px;
+    text-align: end;
+}
+
+
+   
+.menu{
+    background-color:rgb(255, 253, 129);
+    display:inline-block;
+    border: 10px solid rgb(251, 203, 247);
+    margin-top:0px;
+    padding-bottom: 1px;
+
+}
+
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
